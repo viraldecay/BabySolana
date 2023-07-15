@@ -1,0 +1,13 @@
+Validate Baby Solana
+Attestations (Please provide links):
+Tweet from your Twitter Account attesting the Mint address, tagging @JupiterExchange and showing community support: https://twitter.com/_Baby_Solana/status/1680333404389163008 The quoted tweet provides significant evidence of community support.
+Coingecko/ CMC URL (If available): Still working to get coin gecko set up for Baby Solana
+Validation (Please check off boxes):
+check: The metadata provided in the PR matches what is on-chain (Mandatory)
+check: Does not duplicate the symbol of another token on Jupiter's strict list (There is bSOL, but our tag is BSOL, I hope the uppercase letter differentiates us) 
+not checked: Is Listed on Coingecko / CMC (We are working towards this)
+Acknowledgement (Please check off boxes)
+ I did not modify unrelated code.
+ My change matches the format in the file (no spaces between fields).
+We are not yet trading on Jupiter.
+ !!! I read the README section on Community-Driven Validation and will get community support on Twitter.
